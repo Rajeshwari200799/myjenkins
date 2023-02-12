@@ -3,4 +3,4 @@ this is my econd demo
 its only for practice
 
 this is  third commit
-its for own practice
+its for own practice this is inex 
