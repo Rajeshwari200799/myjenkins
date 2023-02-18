@@ -5,4 +5,5 @@ its only for practice
 this is  third commit
 its for own practice this is inex 
 this is my  new conten
-this is second new this is my first file
+this is second new this is my first filethis is my third file
+git add .
